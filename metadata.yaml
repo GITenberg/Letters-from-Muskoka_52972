@@ -1,0 +1,32 @@
+_repo: Letters-from-Muskoka_52972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Charles Gerrard, Mrs.
+    aliases:
+    - King, Harriet Barbara
+    - Durnford, Harriet Barbara
+    - King, Mrs. Charles Gerrard
+    birthdate: 1810
+    deathdate: 1885
+    gutenberg_agent_id: '47141'
+    url: http://www.gutenberg.org/2009/agents/47141
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2016-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52972'
+  lccn: 03019772
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pioneers -- Ontario -- Biography'
+- !lcsh 'Frontier and pioneer life -- Canada'
+- !lcsh 'Muskoka (Ont. : District)'
+- !lcc 'F1001'
+- GITenberg
+title: Letters from Muskoka
+url: http://www.gutenberg.org/ebooks/52972
